@@ -58,5 +58,19 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "description": "<div align=\"center\">",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengshukeji/Luckysheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengshukeji/Luckysheet/issues"
+  },
+  "homepage": "https://github.com/mengshukeji/Luckysheet#readme"
 }
